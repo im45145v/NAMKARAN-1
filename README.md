@@ -4,7 +4,7 @@ THE PROBLEM:
 Development isn’t a fraction but a benefit of the whole. The life of a visually impaired person is in no way easy. The inability to be aware of one’s surroundings and recognize objects plays a huge impact on the quality of life one leads. It takes more time for them to understand the things in front of them. The absence of basic object recognition in a person’s life compromises their safety. For a blind person, it is difficult and takes time to recognize and understand things. They are even 
 taken advantage of for their disability. Making a fellow human's life easier is a way of upholding humanity in society. For a blind person, it is difficult and takes time to recognize and understand things. They are even taken advantage of for their disability. Making a fellow human's life easier is a way of upholding humanity in society.
 
-THE TEAM APPROACH TO SOLVE THE PROBLEM:
+THE TEAM APPROACH TO SOLVING THE PROBLEM:
 To create an affordable and minimalistic gadget that will scan for objects in real-time using a camera of the device and offer voice instruction to the user via device speaker. It is capable of detecting objects within a certain pre-established range and is reliable for ensuring the safety of the user. Thus, we provide a secure and compact way for the visually impaired which is not only cost-effective but also helps them recognize certain objects without physically touching them.
 
 INTRODUCTION
