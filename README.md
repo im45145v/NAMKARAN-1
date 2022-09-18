@@ -38,6 +38,13 @@ Step 3: Giving audio output
 After the object is determined, the name of the object is taken from the class name list and is appended as text. This appended text is then converted into an audio format using the system Os python package and audio output is given using the device(laptop/computer) speaker.
 
 
+EXECUTION/OUTPUT
+
+1. GO TO THE GITHUB REPO https://github.com/kinshukgoel4/NAMKARAN AND CLONE THE REPO OR DOWNLOAD THE ZIP
+2. OPEN THE FOLDER IN YOUR IDE AND RUN THE MAIN.PY FILE
+3. MAKE SURE THAT YOU INSTALL THE PACKAGES OPENCV, PYTTSX3
+
+
 CONCLUSION
 Vision is one of the most important senses that help people interact with the real world. There are nearly 200 million blind people all over the world, and being visually impaired hinders a lot of day-to-day activities. Thus it is very necessary for blind people to understand their surroundings, and to know what objects they interact with. So, this is a bot that provides a visual substitution for visually impaired people.\
 
